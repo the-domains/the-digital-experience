@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T17:40:13.294Z'
-dateModified: '2016-01-02T17:11:44.390Z'
+datePublished: '2016-01-04T11:52:59.199Z'
+dateModified: '2016-01-04T11:01:42.129Z'
 title: 1001 Nights and the designer
 author: []
+sourcePath: _posts/2016-01-02-1001-nights-and-the-designer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-1001-nights-and-the-designer.md
-published: true
 url: 1001-nights-and-the-designer/index.html
 _type: Article
 
 ---
 # 1001 Nights and the designer
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/01de4efb09be50412e3763bd5f42475c810fa06a.jpg)
 
 The psychological effectiveness of classic tales narrative structure is a model we can follow when building hypertext layout and design, focusing on navigation, performance and usability. 
 
@@ -43,4 +44,3 @@ As the users enter the website's mesh, all the other surrounding contents are de
 Fantastic narratives aim at inducing terror, fright or suspense on the reader. On the other hand, fairy tales such as the ones in the "One Thousand and One Nights" depict supernatural characters and incidents which are not meant to leave the readers on their toes, as terror or detective stories do, but to peacefully guide them through the extraordinary so they traverse the plot in a half-believing state of mind. Planting the seed of doubt or suspicion in the readers is a necessary requisite of the fantastic literature; it is what carries them forward. 
 
 Design, likewise, should follow a similar structure to those employed in fantastic narratives, quietly leading users through the new and different world before them, making them curious, eager to get more information, eager to go on.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/269e13c2-fd6e-4790-9ba1-5abaa3dd2c20.jpg)
