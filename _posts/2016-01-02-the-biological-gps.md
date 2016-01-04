@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T11:36:14.530Z'
-dateModified: '2016-01-04T11:35:52.469Z'
+datePublished: '2016-01-04T11:53:08.689Z'
+dateModified: '2016-01-04T11:52:39.282Z'
 title: The biological GPS
 author: []
 sourcePath: _posts/2016-01-02-the-biological-gps.md
@@ -22,7 +22,7 @@ url: the-biological-gps/index.html
 _type: Article
 
 ---
-# [The biological GPS][0]
+# The biological GPS
 ![Biological GPS](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e0e3952d594d4f2224a0b5c029d5e5eaa94b0a0.jpg)
 
 We use basic strategies to guide us in space... and we do the same when navigating websites. 
@@ -58,7 +58,3 @@ The part of our brain controlling direction is called by neurobiologists "cognit
 The cognitive maps we use are similar to a graph, a set of dots and connections -- much like a subway map. The dots represent the several references, and the connections between them correspond to the actions that take us from one point to the next. Like a subway map, accurate distances and precise angles are unnecessary. Our mental map provides only the approximate proportions between individual stretches and directions, and displays the dots according to the connection between them. 
 
 For a website's good navigation performance, it is essential to provide several forms of localization -- navigation bars, menus, breadcrumbs, site maps, descriptive links, and so on -- and let the users themselves choose which strategy to use when creating their mental maps.
-
-
-
-[0]: null
