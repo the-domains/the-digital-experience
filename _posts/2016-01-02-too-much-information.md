@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T17:39:47.758Z'
-dateModified: '2016-01-02T17:33:30.027Z'
+datePublished: '2016-01-04T11:02:14.710Z'
+dateModified: '2016-01-04T10:56:57.361Z'
 title: Too much information
 author: []
+sourcePath: _posts/2016-01-02-too-much-information.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-too-much-information.md
-published: true
 url: too-much-information/index.html
 _type: Article
 
 ---
 # Too much information
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdcc8d8-716d-4cfa-8734-8d375969272c.jpg)
 
 Most sites oppress and confound, fragmenting and breaking off information. 
 
@@ -53,4 +54,3 @@ Nothing comes closer to human thought than hyperlinks. Through them, contrary to
 UX design must be given a boost in order to be potentially creative, enveloped in a veil of mystery, vitality, strength, necessary illusion, blindness, bias. 
 
 UX design must go back to making users think!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fdcc8d8-716d-4cfa-8734-8d375969272c.jpg)
