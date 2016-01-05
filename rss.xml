@@ -4,8 +4,15 @@
         <description><![CDATA[The Digital Experience]]></description>
         <link>https://thegrid.ai/the-digital-experience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 14:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 14:38:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-digital-experience/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why do we ignore banners?]]></title>
+            <description><![CDATA[<article><h1>Why do we ignore banners?</h1><p>Our brain, as a result of previous experiences, works out cognitive models and disregards irrelevant elements when searching for information.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c640ec072639434d1deed0d5cd384fa76e94805.png"></article>]]></description>
+            <link>https://thegrid.ai/the-digital-experience/why-do-we-ignore-banners/index.html</link>
+            <guid isPermaLink="false">f00dd9e3-7d1b-4d28-8d1a-f5346990937f</guid>
+            <pubDate>Tue, 05 Jan 2016 14:38:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[1001 Nights and the designer]]></title>
             <description><![CDATA[<article><h1>1001 Nights and the designer</h1><p>The psychological effectiveness of classic tales narrative structure is a model we can follow when building hypertext layout and design, focusing on navigation, performance and usability. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14c6db8d7d10510d44c91acae3350622013b3cf2.jpg"></article>]]></description>
