@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T15:31:37.143Z'
-dateModified: '2016-01-07T15:31:15.264Z'
+datePublished: '2016-01-07T15:58:48.787Z'
+dateModified: '2016-01-07T15:58:35.241Z'
 title: "Users do not\_exist!"
 author: []
+sourcePath: _posts/2016-01-07-users-do-not-exist.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-07-users-do-not-exist.md
-published: true
 url: users-do-not-exist/index.html
 _type: Article
 
 ---
 # Users do not exist!
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/467176541d3f4b834b7c1d5cb990d783dd9dbedc.png)
 
 Let's say you are creating a website for a travel agency directed at female customers.
 
@@ -55,4 +56,3 @@ That approach is even more effective when there is a team of designers working t
 Design based on characters has also proven itself to be quite significant and effective in processes of redesign. As there are previous data available, it is possible to verify an overall improvement, such as an increase in traffic, client loyalty, and satisfaction of those navigating the website.
 
 As you create a website, keep in mind that users do not exist; people do!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be2141f5-cd14-4bfd-9153-252394565f90.png)
