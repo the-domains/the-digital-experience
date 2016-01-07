@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-07T15:58:03.878Z'
-dateModified: '2016-01-07T15:57:43.882Z'
+datePublished: '2016-01-07T15:59:19.358Z'
+dateModified: '2016-01-07T15:59:12.129Z'
 title: The Best Customer Experience Ever
 author: []
+sourcePath: _posts/2016-01-07-the-best-customer-experience-ever.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-07-the-best-customer-experience-ever.md
-published: true
 url: the-best-customer-experience-ever/index.html
 _type: Article
 
 ---
 # The Best Customer Experience Ever
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6cdc182-4454-4795-976c-62e3fe1b2160.jpg)
 
 What an experience! What a surprise! The book I just bought sent me an email... and "he" is talking to me!
 
@@ -59,6 +60,5 @@ If you have any questions or concerns, please email my friends in Customer Care 
 _**Eagerly awaiting our meeting, **_
 
 _**Measuring What Matters: Simplified Tools for Aligning Teams and Their Stakeholders**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6cdc182-4454-4795-976c-62e3fe1b2160.jpg)
 
 [0]: http://www.betterworldbooks.com/
