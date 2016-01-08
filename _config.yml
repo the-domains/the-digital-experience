@@ -22,7 +22,7 @@ color:
     - '#550f19'
     - '#a88873'
   brandStrength: 1
-  lightness: 0
+  lightness: 1
   saturation: 0
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
