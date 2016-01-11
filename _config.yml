@@ -1,6 +1,6 @@
 name: The Digital Experience
 favicon: null
-layout_spectrum: 0.38258
+layout_spectrum: 0.63463
 typography_spectrum: 0.73165
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fefff9'
-    - '#c7632f'
-    - '#d0d1cb'
-    - '#5b3824'
-    - '#6e6f69'
+    - '#fe5335'
+    - '#dee0d3'
+    - '#3f92a4'
+    - '#353a40'
+    - '#de7d6c'
   brandStrength: 1
   lightness: 1
   saturation: 0.5
