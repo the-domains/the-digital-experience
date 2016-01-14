@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T12:46:19.475Z'
-dateModified: '2016-01-14T12:46:10.748Z'
+datePublished: '2016-01-14T12:47:21.969Z'
+dateModified: '2016-01-14T12:47:12.638Z'
 title: "UX thesis digital curation\_"
 author: []
 sourcePath: _posts/2016-01-14-ux-thesis-digital-curation.md
@@ -36,4 +36,4 @@ When a site launches, your audience arrives to learn more about what you know mo
 The aim of this project is to establish and develop long term repositories of User Experience digital assets (thesis, papers, workshop papers, book chapters, reports) for current and future reference by researchers, scientists, historians, and scholars.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a00d490-5bf9-4ab8-8ab4-c09cde2e5c3a.jpg)
 
-[0]: www.uxthesis.com
+[0]: http://www.uxthesis.com/
