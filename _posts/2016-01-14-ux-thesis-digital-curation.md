@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T12:39:41.346Z'
-dateModified: '2016-01-14T12:38:38.627Z'
+datePublished: '2016-01-14T12:46:19.475Z'
+dateModified: '2016-01-14T12:46:10.748Z'
 title: "UX thesis digital curation\_"
 author: []
+sourcePath: _posts/2016-01-14-ux-thesis-digital-curation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-ux-thesis-digital-curation.md
-published: true
 url: ux-thesis-digital-curation/index.html
 _type: Article
 
 ---
-# UX thesis digital curation 
+# UX thesis digital curation ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84e2abae-a448-4908-bc37-f600dfdc7701.JPG)
 
 Curation has a distinguished history in cultural institutions. 
 
