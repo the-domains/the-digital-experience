@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T12:27:12.166Z'
-dateModified: '2016-01-14T12:26:42.025Z'
-title: UX thesis digital curation
+datePublished: '2016-01-14T12:31:56.679Z'
+dateModified: '2016-01-14T12:31:52.875Z'
+title: ''
 author: []
+sourcePath: _posts/2016-01-14-ux-thesis-digital-curation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-ux-thesis-digital-curation.md
-published: true
 url: ux-thesis-digital-curation/index.html
 _type: Article
 
