@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T12:56:32.775Z'
-dateModified: '2016-01-14T12:56:29.361Z'
+datePublished: '2016-01-14T13:25:30.991Z'
+dateModified: '2016-01-14T13:25:24.071Z'
 title: "UX thesis digital curation\_"
 author: []
 sourcePath: _posts/2016-01-14-ux-thesis-digital-curation.md
@@ -30,9 +30,10 @@ In galleries and museums, curators use judgment and a refined sense of style to 
 
 Bloggers can also be considered as curators and experts of a particular subject, hand-picking others' assets around a particular theme or topic and then layering in their own distinct voice. 
 
-When a site launches, your audience arrives to learn more about what you know most about. It's critical to create a content experience with purpose, that is consistent and contextual. This helps to assert your brand's authority, establishes relationships with your audience, and secures a return visit based on your content's value. The content strategist-as-curator is the one who makes this happen. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8df1d7903ac2826e45b8affe4c100ea673879688.jpg)
+When a site launches, your audience arrives to learn more about what you know most about. It's critical to create a content experience with purpose, that is consistent and contextual. This helps to assert your brand's authority, establishes relationships with your audience, and secures a return visit based on your content's value. The content strategist-as-curator is the one who makes this happen. 
 
-[UX thesis][0] is a digital curation website.
+**[UX thesis][0] is a digital curation website. **
+
 The aim of this project is to establish and develop long term repositories of User Experience digital assets (thesis, papers, workshop papers, book chapters, reports) for current and future reference by researchers, scientists, historians, and scholars.
 
 [0]: http://www.uxthesis.com/
