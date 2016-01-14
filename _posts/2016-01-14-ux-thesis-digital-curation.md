@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T12:31:56.679Z'
-dateModified: '2016-01-14T12:31:52.875Z'
+datePublished: '2016-01-14T12:34:45.990Z'
+dateModified: '2016-01-14T12:34:38.945Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-14-ux-thesis-digital-curation.md
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 ### UX thesis digital curation
+
+In galleries and museums, curators use judgment and a refined sense of style to select and arrange art to create a narrative, evoke a response, and communicate a message. As the digital landscape becomes increasingly complex, and as businesses become ever more comfortable using the web to bring their product and audience closer, the techniques and principles of museum curatorship can inform how we create online experiences---particularly when we approach content.Curation has a distinguished history in cultural institutions.
 
 > Curation has a distinguished history in cultural institutions.
 
