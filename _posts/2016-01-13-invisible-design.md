@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T17:22:41.727Z'
-dateModified: '2016-01-13T17:22:21.872Z'
+datePublished: '2016-01-14T12:11:34.130Z'
+dateModified: '2016-01-13T17:24:13.957Z'
 title: Invisible Design
 author: []
 authors: []
