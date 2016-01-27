@@ -1,9 +1,7 @@
-favicon: null
 name: The Digital Experience
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.61485
+typography_spectrum: 0.73165
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-125626-11
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8125
-  brandStrength: 1
-  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#705542'
     - '#ddad59'
     - '#7f7f7f'
     - '#ba3f5e'
-  lightness: 0.6875
-typography_spectrum: 0.73165
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.6446809
-analytics:
-  twitter: null
-  google: UA-125626-11
-  facebook: null
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.125
+  rhythmicContrast: 0.5
+purpose: []
