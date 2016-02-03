@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T17:04:32.861Z'
-dateModified: '2016-01-08T17:04:23.197Z'
+datePublished: '2016-02-03T12:19:24.759Z'
+dateModified: '2016-02-03T12:19:17.065Z'
 title: The Ideal of Beauty
 author: []
+sourcePath: _posts/2016-01-08-the-ideal-of-beauty.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-08-the-ideal-of-beauty.md
-published: true
 url: the-ideal-of-beauty/index.html
 _type: Article
 
 ---
 # The Ideal of Beauty
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0020d868-f3f9-41f4-912b-9cd9a3d6deaf.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af26cc81-4ba0-405e-9d8a-731875775084.JPG)
 
 Those who deal with design should understand how much cognition and emotion band together within the aesthetic experience. 
 
