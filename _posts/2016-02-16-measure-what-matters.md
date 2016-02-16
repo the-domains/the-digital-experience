@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T16:58:25.778Z'
-dateModified: '2016-02-16T16:58:12.736Z'
+datePublished: '2016-02-16T18:57:51.942Z'
+dateModified: '2016-02-16T18:57:47.452Z'
 title: Measure what Matters
 author: []
 authors: []
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Measure what Matters
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/437c943a-7632-4eca-9b57-b6707da3c0ba.jpg)
 
 Telling a manager to measure what matters is asking to advising dieters to watch their weight.
 It's almost too obvious to mention. Yet competing approaches proliferate much like diet plans. 
