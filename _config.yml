@@ -1,9 +1,7 @@
-favicon: null
 name: The Digital Experience
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.62292
+typography_spectrum: 0.14007
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-125626-11
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.25
-  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#3b3a36'
     - '#b3c2bf'
     - '#000000'
     - '#898c85'
+  brandStrength: 0.25
   lightness: 0.375
-typography_spectrum: 0.14007
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: UA-125626-11
-  facebook: null
+  saturation: 0.5
+  rhythmicContrast: 0.25
+purpose: []
