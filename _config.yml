@@ -1,6 +1,6 @@
 name: The Digital Experience
 favicon: null
-layout_spectrum: 0.62292
+layout_spectrum: 0.70519
 typography_spectrum: 0.14007
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#000000'
     - '#898c85'
   brandStrength: 0.25
-  lightness: 0.375
+  lightness: 0.875
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
