@@ -1,7 +1,7 @@
 name: The Digital Experience
 favicon: null
 layout_spectrum: 0.59941
-typography_spectrum: 0.87072
+typography_spectrum: 0.59454
 collections:
   - index:
       path: /
