@@ -18,22 +18,22 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.6875
-  brandStrength: 0.6170213
-  lightness: 1
+  saturation: 0.8587766552809626
+  brandStrength: 0.44138202467001975
+  lightness: 0.027944699861109257
   brandColors:
-    - '#ffffff'
-    - '#4d4d4f'
-    - '#aeb3b9'
-    - '#ef5b41'
-    - '#2a87cc'
-  rhythmicContrast: 0.75
-typography_spectrum: 0.571
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+  rhythmicContrast: 0.5342926250305027
+typography_spectrum: 0.7402102430351079
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.67471
+layout_spectrum: 0.1412819551769644
 analytics:
   twitter: null
   google: UA-125626-11
