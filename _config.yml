@@ -1,9 +1,30 @@
-favicon: null
-name: The Digital Experience
+typography_spectrum: 0.7402102430351079
+color:
+  saturation: 0.16364451218396425
+  brandStrength: 0.3578865078743547
+  lightness: 0.5875280892942101
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+  rhythmicContrast: 0.5052657267078757
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.06414714735001326
+analytics:
+  twitter: null
+  google: UA-125626-11
+  facebook: null
+name: The Digital Experience
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -16,25 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Marcos Nähr
 purpose: []
-color:
-  saturation: 0.16364451218396425
-  brandStrength: 0.3578865078743547
-  lightness: 0.5875280892942101
-  brandColors:
-    - '#E7E8D1'
-    - '#D3CEAA'
-    - '#FBF7E4'
-    - '#424242'
-    - '#8E001C'
-  rhythmicContrast: 0.5052657267078757
-typography_spectrum: 0.7402102430351079
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.06414714735001326
-analytics:
-  twitter: null
-  google: UA-125626-11
-  facebook: null
